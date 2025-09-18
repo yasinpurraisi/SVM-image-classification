@@ -58,5 +58,5 @@ This project shows how classical machine learning techniques like SVM and H.O.G.
 
 Yasin Pourraisi  
 - GitHub: [yasinpurraisi](https://github.com/yasinpurraisi)  
-- Email: yasinpurraisi@gmail.com  
+- Email: yasinpourraisi@gmail.com  
 - Telegram:@yasinprsy
